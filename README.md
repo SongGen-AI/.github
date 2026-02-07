@@ -57,7 +57,7 @@ We're building the **#1 AI tool for music video production**, starting with indi
 - [x] Multi-model video rendering (Sora, VEO, Kling, Runway, Midjourney)
 - [x] Beat-sync pipeline
 - [x] Vibe editing & character sync
-- [ ] Lip-sync engine
+- [x] Lip-sync engine
 - [ ] Dancing motion synthesis
 - [ ] Director Mode — full creative control over every frame
 - [ ] Trend analysis & visual direction advisor
