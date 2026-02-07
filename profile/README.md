@@ -2,6 +2,8 @@
 
 **AI-powered music video generation engine.** Upload a track. Get a cinematic music video. No prompt engineering required.
 
+> **Note:** We've renamed from **SongGen** to **Cremi**. Same team, same mission, new name.
+
 [![Website](https://img.shields.io/badge/cremi.ai-website-black?style=flat-square)](https://cremi.ai)
 [![Hiring](https://img.shields.io/badge/we're_hiring-AI_Engineer-blue?style=flat-square)](https://github.com/SongGen-AI/.github/blob/main/hiring/ai-software-engineer.md)
 
